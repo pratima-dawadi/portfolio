@@ -31,7 +31,7 @@ const Portfolio = () => {
     {
       id: 3,
       src: cc,
-      title: "Movie Revie System",
+      title: "Movie Review System",
       desc: [
         "Store information of different movies and series and generate data whenever asked by the users and also save it as per the need of user. It allows to add movies and series of their own and give review and ratings too. It also displays ratings and comments on the movies or series on the bottom of that also views the most top rated movies and series which makes the user easy to make choice of movies and series.",
 

@@ -42,7 +42,7 @@ const Portfolio = () => {
   ];
   return (
     <>
-      <div className="container py-5">
+      <div className="container py-5" id="projects">
         <div className="text-center">
           <h1 className="fw-bold">Projects</h1>
           <p className="fw-light pt-2 text-uppercase">

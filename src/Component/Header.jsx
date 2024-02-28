@@ -17,7 +17,7 @@ import { Container } from "react-bootstrap";
 const Header = () => {
   return (
     <>
-      <Container className="pb-5 fw-light">
+      <Container className="pb-5 fw-light" id="home">
         <div className="row d-flex justify-content-center align-items-center">
           <div className="col-lg-5 col-md-12">
             <div>

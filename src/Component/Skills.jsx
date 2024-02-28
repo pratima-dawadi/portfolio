@@ -40,7 +40,7 @@ const Skills = () => {
   ];
   return (
     <>
-      <div className="container py-5">
+      <div className="container py-5" id="about">
         <div className="text-center">
           <h1 className="fw-bold">What I do??</h1>
           <p className="fw-light pt-2">

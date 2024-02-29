@@ -86,7 +86,7 @@ const Header = () => {
               <button className="button-resume fw-bold btn rounded-0 mt-4">
                 <a
                   className="text-decoration-none"
-                  href="/cv.pdf"
+                  href="./cv.pdf"
                   download={true}
                   target="_blank"
                   rel="noreferrer"

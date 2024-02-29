@@ -65,7 +65,7 @@ const Contact = () => {
           </div>
           <div class="col-md-12 col-lg-5">
             <form
-              action="https://getform.io/f/868bae5c-819b-4df3-b4cd-60759e202e67"
+              action="https://getform.io/f/ZdPPj6dK"
               method="POST"
             >
               <div class="input-group mb-3">

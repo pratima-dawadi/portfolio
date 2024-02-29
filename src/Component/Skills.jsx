@@ -50,7 +50,13 @@ const Skills = () => {
         <div className="text-center">
           <h1 className="fw-bold">What I do??</h1>
           <p className="fw-light pt-2">
-            A WEB DEVELOPER
+            WEB DEVELOPER
+            </p>
+            <p className="fw-light pt-2">
+            AI/ML ENTHUSIAST
+            </p>
+            <p className="fw-light pt-2">
+            AUTOMATION ENGINEER
           </p>
         </div>
         <div className="row pt-5 g-4 d-flex justify-content-center align-items-center">
@@ -58,7 +64,7 @@ const Skills = () => {
             <Lottie className="img-fluid" animationData={animation} loop={true} />
           </div>
           <div className="col-12 col-lg-6">
-            <h3 className="pb-3 fw-normal">Web Development</h3>
+            <h3 className="pb-3 fw-normal">SKILLS</h3>
             <div className="d-flex flex-wrap gap-2">
               {techs.map(({ id, src, title }) => (
                 <div className="shadow rounded-circle p-2" key={id} title={title}>

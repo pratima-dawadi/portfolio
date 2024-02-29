@@ -4,6 +4,7 @@ import css from "../assets/css.png";
 import bootstrap from "../assets/bootstrap.png";
 import tailwind from "../assets/tailwind.png";
 import react from "../assets/react.png";
+import python from "../assets/python.png";
 import { BsLightningChargeFill } from "react-icons/bs";
 import animation from "../assets/animation.json";
 import Lottie from "lottie-react";
@@ -33,9 +34,14 @@ const Skills = () => {
       title: "Tailwind",
     },
     {
-      id: 6,
+      id: 5,
       src: react,
       title: "React",
+    },
+    {
+      id:6,
+      src:python,
+      title:"Python",
     },
   ];
   return (
